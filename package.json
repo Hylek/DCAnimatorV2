@@ -1,0 +1,13 @@
+{
+    "name": "com.danielcumbor.dcanimator",
+    "version": "2.0.0",
+    "displayName": "DC Animator",
+    "description": "A custom Unity tool for animating objects.",
+    "unity": "6000.0",
+    "unityRelease": "23f1",
+    "author": {
+        "name": "Daniel Cumbor",
+        "email": "danc@ultr.uk",
+        "url": "https://www.danielcumbor.uk"
+    }
+}
